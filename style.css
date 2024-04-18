@@ -1,0 +1,30 @@
+/* body{
+    background-color: #73e464;
+}
+h1{
+    color: #e35b5b;
+    text-align: center;
+}
+p{
+    color: #ee1111;
+    text-align: center;
+    font-family: Bahman;
+    font-size: 40px;
+}
+.test{
+    color: #093703;
+    text-align: right;
+    font-size: 50px ;
+    font-family:B Nazanin ;
+} */
+.bg-holder{
+    position: absolute;
+    width: 100%;
+    min-height:100% ;
+    top: 0;
+    left: 0;
+    background-position:center ;
+    background-size:cover ;
+    background-repeat: no-repeat;
+
+}
