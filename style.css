@@ -17,14 +17,22 @@ p{
     font-size: 50px ;
     font-family:B Nazanin ;
 } */
-.bg-holder{
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+body {
+    font-family: 'Nunito Sans', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    background-color: #fff;
+}
+
+.bg-holder {
     position: absolute;
     width: 100%;
-    min-height:100% ;
+    min-height: 100%;
     top: 0;
     left: 0;
-    background-position:center ;
-    background-size:cover ;
+    background-position: center;
+    background-size: cover;
     background-repeat: no-repeat;
 
 }
